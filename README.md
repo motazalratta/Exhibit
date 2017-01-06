@@ -1,7 +1,6 @@
-# Test assignment
 The output:
 ```
-Sequential Time required: 00:00:02.5182610
+Sequential Time required: 00:00:02.5994183
 DISTINCT_PLAY_COUNT     CLIENT_COUNT
 327     11
 346     22
@@ -100,8 +99,9 @@ DISTINCT_PLAY_COUNT     CLIENT_COUNT
 281     1
 383     1
 390     1
+The maximum number of distinct songs played 393
 
-Parallel Time required: 00:00:01.8046944
+Parallel Time required: 00:00:01.8073554
 DISTINCT_PLAY_COUNT     CLIENT_COUNT
 327     11
 346     22
@@ -200,6 +200,7 @@ DISTINCT_PLAY_COUNT     CLIENT_COUNT
 281     1
 383     1
 390     1
+The maximum number of distinct songs played 393
 
 Press any key to continue . . .
 ```
